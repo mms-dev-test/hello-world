@@ -26,5 +26,12 @@ namespace HelloWorldWebApp.Controllers
 
             return View();
         }
+
+        public ActionResult Sample()
+        {
+            ViewBag.Message = "This is a sample page.";
+
+            return View();
+        }
     }
 }
