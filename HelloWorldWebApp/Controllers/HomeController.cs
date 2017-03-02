@@ -31,6 +31,7 @@ namespace HelloWorldWebApp.Controllers
         public ActionResult Sample()
         {
             ViewBag.Message = "This is a sample page.";
+            // This is a sample commit 
 
             return View();
         }
