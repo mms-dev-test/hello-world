@@ -16,23 +16,31 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		JENKINS_Debug|Any CPU = JENKINS_Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{754D1E8C-27D9-427F-88D0-0A07DDD8600D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{754D1E8C-27D9-427F-88D0-0A07DDD8600D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754D1E8C-27D9-427F-88D0-0A07DDD8600D}.JENKINS_Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754D1E8C-27D9-427F-88D0-0A07DDD8600D}.JENKINS_Debug|Any CPU.Build.0 = Debug|Any CPU
 		{754D1E8C-27D9-427F-88D0-0A07DDD8600D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{754D1E8C-27D9-427F-88D0-0A07DDD8600D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C2BDC2BC-CB85-431E-9125-FD0B5F317FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C2BDC2BC-CB85-431E-9125-FD0B5F317FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BDC2BC-CB85-431E-9125-FD0B5F317FE4}.JENKINS_Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BDC2BC-CB85-431E-9125-FD0B5F317FE4}.JENKINS_Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2BDC2BC-CB85-431E-9125-FD0B5F317FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2BDC2BC-CB85-431E-9125-FD0B5F317FE4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{92C64FEE-6267-4A5E-B8AE-384E6F62DED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{92C64FEE-6267-4A5E-B8AE-384E6F62DED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C64FEE-6267-4A5E-B8AE-384E6F62DED6}.JENKINS_Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C64FEE-6267-4A5E-B8AE-384E6F62DED6}.JENKINS_Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92C64FEE-6267-4A5E-B8AE-384E6F62DED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92C64FEE-6267-4A5E-B8AE-384E6F62DED6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AC1B8345-A060-4A18-83A6-7B129C19B1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AC1B8345-A060-4A18-83A6-7B129C19B1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1B8345-A060-4A18-83A6-7B129C19B1FB}.JENKINS_Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AC1B8345-A060-4A18-83A6-7B129C19B1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC1B8345-A060-4A18-83A6-7B129C19B1FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
