@@ -10,6 +10,7 @@ namespace HelloWorldWebApp.Controllers
     {
         public ActionResult Index()
         {
+            // This is the main action
             return View();
         }
 
